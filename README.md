@@ -45,7 +45,7 @@ spacy==2.3.5
 
 # Editor's Interface Screenshot
 
-![Screenshot](c10.PNG)
+![Screenshot](bb.PNG)
 
 =======================================================================
 
@@ -53,7 +53,7 @@ spacy==2.3.5
 
 ### [This project is a part of following Open Source Program](https://codeclause.com/)
 
-![Screenshot](codeclause.jpg)
+![Screenshot](cc.jpg)
 
 
 =======================================================================
