@@ -57,7 +57,7 @@ It also requires the following Python packages, which can be installed via pip:
 
 # Editor's Interface Screenshot
 
-![Screenshot](bb.PNG)
+![Screenshot](bb.jpg)
 
 =======================================================================
 
