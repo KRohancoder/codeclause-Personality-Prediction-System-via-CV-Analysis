@@ -23,19 +23,31 @@ This project requires that you have Python installed. Download it here.
 
 It also requires the following Python packages, which can be installed via pip:
 
-pdfminer3
-pyresparser
-streamlit
-pandas
-pafy
-plotly
-pymysql
-streamlit-tags
-Pillow
-youtube-dl
-nltk
-pdfminer3
-spacy==2.3.5
+-pdfminer3
+
+-pyresparser
+
+-streamlit
+
+-pandas
+
+-pafy
+
+-plotly
+
+-pymysql
+
+-streamlit-tags
+
+-Pillow
+
+-youtube-dl
+
+-nltk
+
+-pdfminer3
+
+-spacy==2.3.5
 
 
 
